@@ -1,0 +1,46 @@
+body {
+  font-family: verdana;
+  background: gray;
+  color: white;
+  color:white;
+}
+p {
+  text-align:center;
+}
+hr {
+  width: 50%;
+}
+#img-div{
+
+}
+#image { 
+  max-width: 50%;
+  display: block;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+   border: 15px solid darkgray;
+  border-radius: 10px;
+}
+#title{
+  text-align: center;
+}
+#img-caption{
+  text-align: center;
+}
+#tribute-info{
+  text-align: center;
+}
+  .timeline{
+ 
+    background: darkgray;
+      width: 50%;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
